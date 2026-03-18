@@ -52,5 +52,11 @@
 	"display": "standalone",
 	"display_override": [
 		"fullscreen"
+		],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
 
 }
