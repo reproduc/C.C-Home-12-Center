@@ -49,7 +49,7 @@
 	"theme_color": "#00b6aa",
 	"background_color": "#00b6aa",
 	"orientation": "portrait",
-	"display": "fullscreen",
+	"display": "standalone",
 	"display_override": [
 		"fullscreen"
 	],
